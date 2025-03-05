@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\davyj\Meu Drive\Unoesc\4_semestre\Modelagem E Programacao\Lista de Exercícios I\.metadata\.plugins\org.eclipse.jdt.core
